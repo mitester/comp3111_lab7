@@ -1,6 +1,6 @@
 # comp3111_lab7
 
-This repo is an example repo to show how to write JUint test cases. 
+This repo is an example repo to show how to write JUnit test cases. 
 
 For Lab7 Submission, you need to work on your team project by creating a new brach and writing some test cases for some classses in your team project.
 
